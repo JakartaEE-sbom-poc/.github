@@ -1,5 +1,3 @@
-# JakartaEE-sbom-poc
-
 ## Hi there 👋
 
 This github organisation contains forked JakartaEE repos to generate sbom
